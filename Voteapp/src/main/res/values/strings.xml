@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Voteapp</string>
+    <string name="to_char"><![CDATA[~]]></string>
+    <string name="left_char"><![CDATA[<]]></string>
+    <string name="right_char"><![CDATA[>]]></string>
+    <string name="index_char"><![CDATA[-]]></string>
+</resources>
